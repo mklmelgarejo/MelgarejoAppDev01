@@ -9,21 +9,21 @@ your project is well-organized with a clear directory structure.
 2. Implement Tabs:
 Create a tabbed interface using Flutter's ‘TabBar’ and ‘TabBarView’ widgets. Your
 application should have tabs for the following sections:
-a. Personal Information
+- a. Personal Information
 Include a clear, recent image of yourself.
 Provide details such as your name, age, and a brief bio.
-b. Educational Background
+- b. Educational Background
 List your educational qualifications in reverse chronological order (most recent
 first).
 Include the name of the institutions, degrees obtained, and the years of attendance.
-c. Skills
+- c. Skills
 Enumerate your technical and non-technical skills.
 Highlight any certifications or special training you have received.
-d. Interests (Specializations, Area of Research):
+- d. Interests (Specializations, Area of Research):
 Describe your professional interests, specializations, and any research areas you are
 passionate about.
 Mention any notable projects or publications related to your interests.
-e. Contact Details:
+- e. Contact Details:
 Provide multiple ways for others to contact you, such as email, phone number, and
 links to social media profiles or personal website.
 
